@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-embed-explo/build/static/css/main.f9023f87.chunk.css",
+    "main.js": "/text-embed-explo/build/static/js/main.2c6adc83.chunk.js",
+    "main.js.map": "/text-embed-explo/build/static/js/main.2c6adc83.chunk.js.map",
+    "runtime-main.js": "/text-embed-explo/build/static/js/runtime-main.db954561.js",
+    "runtime-main.js.map": "/text-embed-explo/build/static/js/runtime-main.db954561.js.map",
+    "static/js/2.40143e06.chunk.js": "/text-embed-explo/build/static/js/2.40143e06.chunk.js",
+    "static/js/2.40143e06.chunk.js.map": "/text-embed-explo/build/static/js/2.40143e06.chunk.js.map",
+    "static/js/3.fe136ed5.chunk.js": "/text-embed-explo/build/static/js/3.fe136ed5.chunk.js",
+    "static/js/3.fe136ed5.chunk.js.map": "/text-embed-explo/build/static/js/3.fe136ed5.chunk.js.map",
+    "index.html": "/text-embed-explo/build/index.html",
+    "static/css/main.f9023f87.chunk.css.map": "/text-embed-explo/build/static/css/main.f9023f87.chunk.css.map",
+    "static/js/2.40143e06.chunk.js.LICENSE.txt": "/text-embed-explo/build/static/js/2.40143e06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db954561.js",
+    "static/js/2.40143e06.chunk.js",
+    "static/css/main.f9023f87.chunk.css",
+    "static/js/main.2c6adc83.chunk.js"
+  ]
+}
